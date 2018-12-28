@@ -1,6 +1,3 @@
-# mineswpr
-
-[Live Demo](http://mineswpr.owz.im/)
 
 ## Project setup
 ```
